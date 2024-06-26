@@ -14,12 +14,12 @@ This repository contains a problem set generator for Codeforces Gym. It reads us
 ### `users.txt`
 
 Each line should contain a single Codeforces username. Example:
-
+```
 tourist
 jiangly
 Benq
 orzdevinwang
-
+```
 
 ### `ratings.txt`
 
@@ -28,11 +28,11 @@ The file should contain two lines:
 2. Desired number of problems.
 (800 rating problems 2, 900 ratings problem 3, 1000 rating problem 2)
 Example:
-
+```
 800 2
 900 1
 1000 2
-
+```
 
 ## How to Use
 
