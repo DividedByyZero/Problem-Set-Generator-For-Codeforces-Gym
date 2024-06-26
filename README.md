@@ -1,4 +1,4 @@
-﻿# Problem-Set-Generator-For-Codforces-Gym
+﻿# Problem-Set-Generator-For-Codeforces-Gym
 
 This repository contains a problem set generator for Codeforces Gym. It reads user information, desired ratings, and problem counts from specified files, uses the Codeforces API to fetch problems, and generates a problem set for a contest.
 
