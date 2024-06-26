@@ -45,7 +45,12 @@ Example:
 ```bash
 git clone https://github.com/DividedByyZero/Problem-Set-Generator-For-Codeforces-Gym
 cd Problem-Set-Generator-For-Codeforces-Gym
-2. Install 
+```
+2. Install Requests
+```bash 
 pip install requests
+```
 3. Run Main Scripts
+```bash
 python main.py
+```
